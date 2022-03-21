@@ -20,7 +20,7 @@ intro:
         Kommunikationerna till området är goda med både tunnelbana och en mängd
         bussförbindelser. Tunnelbanans blå linje byggs just nu ut och kommer om
         några år bindas ihop med pendeltågen vid Barkarby.
-    - image: /img/flavor_wheel.jpg
+    - image: /img/akalladalen-40ar.png
       text: >
         Samfälligheten sköter om området mellan husen, fjärrvärmen, garagen med
         mera. Föreningens anordnar städdagar och firanden.
