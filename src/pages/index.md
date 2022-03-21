@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Akalladalens
-image: http://akalladalen.nu/index_foto/parhus2l.JPG
+image: /img/jumbotron.jpg
 heading: Radhusområdet i Akalladalen
 subheading: Samfällighetsförening
 mainpitch:
@@ -11,16 +11,16 @@ description: Radhusområdet består av 176 stycken par- och radhus i västra Aka
   - nära både tunnelbana och vidsträckta friluftsområden.
 intro:
   blurbs:
-    - image: https://trippa.se/sites/default/files/styles/iphone_trip/public/akalla-by-009-1800.jpg
+    - image: /img/chemex.jpg
       text: >
         Området ligger 12,5 km nordväst om Stockholms centrum och gränsar till
         Järvafältets- och Hansta naturreservat, samt kulturreservatet Akalla by.
-    - image: https://nyatunnelbanan.se/wp-content/uploads/2021/10/Barkarby-768x528.png
+    - image: /img/blog-index.jpg
       text: >
         Kommunikationerna till området är goda med både tunnelbana och en mängd
         bussförbindelser. Tunnelbanans blå linje byggs just nu ut och kommer om
         några år bindas ihop med pendeltågen vid Barkarby.
-    - image: http://akalladalen.nu/index_foto/radhus3l.JPG
+    - image: /img/flavor_wheel.jpg
       text: >
         Samfälligheten sköter om området mellan husen, fjärrvärmen, garagen med
         mera. Föreningens anordnar städdagar och firanden.
