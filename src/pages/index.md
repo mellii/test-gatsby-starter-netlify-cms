@@ -6,7 +6,7 @@ heading: Radhusområdet i Akalladalen
 subheading: Samfällighetsförening
 mainpitch:
   title: Välkommen till
-  description: "\n"
+  description: "\ \n"
 description: Radhusområdet består av 176 stycken par- och radhus i västra Akalla
   - nära både tunnelbana och vidsträckta friluftsområden.
 intro:
@@ -24,8 +24,8 @@ intro:
       text: >
         Samfälligheten sköter om området mellan husen, fjärrvärmen, garagen med
         mera. Föreningens anordnar städdagar och firanden.
-  heading: .
-  description: "\n"
+  heading: " "
+  description: "\ \n"
 main:
   heading: Great coffee with no compromises
   description: >
